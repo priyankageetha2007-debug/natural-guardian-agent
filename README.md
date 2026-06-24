@@ -18,7 +18,10 @@ Farmers often face significant crop losses due to the inability to identify plan
 
 ## How to Run
 1. Clone this repository.
-2. Install the necessary dependencies.
-3. Run the main agent script:
    ```bash
-   python agent.py
+   git clone <your-repository-url>
+   cd <your-repository-folder>
+2.Run the agent:
+      This project uses 'uv' for dependency management.Execute the following commend to run the agent.
+      ```bash
+      uv run app/agent.py
