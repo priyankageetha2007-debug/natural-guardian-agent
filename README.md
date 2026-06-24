@@ -19,7 +19,7 @@ Farmers often face significant crop losses due to the inability to identify plan
 ## How to Run
 1. Clone this repository.
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/priyankageetha2007-debug/natural-guardian-agent.git
    cd <your-repository-folder>
 2. Run the agent:
 This project uses `uv` for dependency management. Execute the following command to run the agent:
