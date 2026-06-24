@@ -21,6 +21,8 @@ Farmers often face significant crop losses due to the inability to identify plan
    ```bash
    git clone <your-repository-url>
    cd <your-repository-folder>
-2.Run the agent:
-      This project uses 'uv' for dependency management.Execute the following commend to run the agent.
-   uv run app/agent.py
+2. Run the agent:
+This project uses `uv` for dependency management. Execute the following command to run the agent:
+
+```bash
+uv run app/agent.py
