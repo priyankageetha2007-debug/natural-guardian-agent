@@ -10,7 +10,7 @@ Farmers often face significant crop losses due to the inability to identify plan
 
 ## 🏗️ Architecture
 The Natural Guardian Agent is built on a robust agentic workflow that leverages Google's Gemini Pro for logic and specific tools for domain data.
-<img width="1408" height="768" alt="Gemini_Generated_Image_n1w5g1n1w5g1n1w5" src="https://github.com/user-attachments/assets/3120e682-dff0-436b-853c-1ca23e4b7579" />
+![Natural Guardian Agent Architecture](assets/architecture.png)
 
 ### Core Components
 1. **User Input:** The user provides plant symptoms or queries regarding crop health.
