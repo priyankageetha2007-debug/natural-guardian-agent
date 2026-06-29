@@ -18,7 +18,7 @@ The Natural Guardian Agent is built on a robust agentic workflow that leverages 
 3. **Tool Execution:**
    - **`get_remedy`**: Fetches specific medical treatments, natural remedies, and prevention tips based on the disease ID.
    - **`find_diseases_by_crop`**: Performs a database lookup to list potential threats for a given crop.
-4. **Actionable Response:** The agent synthesizes the output and provides a clear, concise, and expert-level diagnosis/treatment plan.<img width="1408" height="768" alt="Gemini_Generated_Image_n1w5g1n1w5g1n1w5" src="https://github.com/user-attachments/assets/3fac6248-5f9d-49ff-ba4f-5775944f1e89" />
+4. **Actionable Response:** The agent synthesizes the output and provides a clear, concise, and expert-level diagnosis/treatment plan.
 
 
 ## 🌟 Key Features
